@@ -3,6 +3,8 @@ from telegram.ext import CommandHandler
 import logging #debug
 from config import TOKEN
 
+# new commit message Nick
+
 # parse bot
 updater = Updater(token=TOKEN, use_context=True)
 
