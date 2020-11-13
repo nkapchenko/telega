@@ -1,0 +1,11 @@
+README.rst
+setup.cfg
+setup.py
+src/telega/__init__.py
+src/telega/skeleton.py
+src/telega.egg-info/PKG-INFO
+src/telega.egg-info/SOURCES.txt
+src/telega.egg-info/dependency_links.txt
+src/telega.egg-info/not-zip-safe
+src/telega.egg-info/requires.txt
+src/telega.egg-info/top_level.txt
